@@ -30,7 +30,7 @@
 
 ## 🧭 The Problem
 
-Everyone has that one object they always lose - keys, wallet, the remote, a single shoe. You put it down, walk away, and twenty minutes later you're on your knees checking under the couch. Half the time you find it. The other half you give up, buy a replacement, and the original turns up a week later somewhere obvious.
+Everyone has that one object they always lose- keys, wallet, the remote, a single shoe. You put it down, walk away, and twenty minutes later you're on your knees checking under the couch. Half the time you find it. The other half you give up, buy a replacement, and the original turns up a week later somewhere obvious.
 
 It happens the other way too. You get to work and realize your bag is still on the chair at home. You're out hiking and drop something without noticing.
 
